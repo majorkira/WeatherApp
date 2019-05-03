@@ -1,0 +1,370 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text-de",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"get",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 497,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Add Repository"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 466.0,
+		"history":
+		[
+			"npm",
+			"npm start",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Nott/AppData/Roaming/Sublime Text 3/Packages/User/SublimeServer.sublime-settings",
+		"/D/Users/Nott/Documents/WebDevelopment/WeatherApp/index.html",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/APIexample/starwars.html",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/APIexample/script.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/APIexample/style.css",
+		"/C/Users/Nott/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Nott/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/D/Users/Nott/Documents/WebDevelopment/WeatherApp/package.json",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/APIexample/index.html",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/exerciseAsyncAwait.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/exercisePromises.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/ES9.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/robofriends/src/CardList.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/robofriends/src/index.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/robofriends/src/containers/App.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/robofriends/src/Scroll.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/robofriends/src/Card.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/robofriends/src/App.css",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/robofriends/src/index.css",
+		"/D/Users/Nott/Documents/WebDevelopment/JavaScript30/JavaScript30-master/JavaScript30-master/01 - JavaScript Drum Kit/style.css",
+		"/D/Users/Nott/Documents/WebDevelopment/JavaScript30/JavaScript30-master/JavaScript30-master/01 - JavaScript Drum Kit/index-again.html",
+		"/D/Users/Nott/Documents/WebDevelopment/JavaScript30/JavaScript30-master/JavaScript30-master/01 - JavaScript Drum Kit/drumkitNew.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/robofriends/node_modules/buffer/test/_polyfill.js",
+		"/D/Users/Nott/Documents/WebDevelopment/React/airbnb-clone/src/components/flat.js",
+		"/D/Users/Nott/Documents/WebDevelopment/React/airbnb-clone/src/components/hello.js",
+		"/D/Users/Nott/Documents/WebDevelopment/React/airbnb-clone/src/components/flat.css",
+		"/D/Users/Nott/Documents/WebDevelopment/React/airbnb-clone/src/index.js",
+		"/D/Users/Nott/Documents/WebDevelopment/React/airbnb-clone/src/App.js",
+		"/D/Users/Nott/Documents/WebDevelopment/React/airbnb-clone/src/components/marker.js",
+		"/D/Users/Nott/Documents/WebDevelopment/React/airbnb-clone/src/components/marker.css",
+		"/D/Users/Nott/Documents/WebDevelopment/React/airbnb-clone/src/App.css",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/robofriends/src/robots.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/robofriends/src/SearchBox.js",
+		"/D/Users/Nott/Documents/WebDevelopment/React/react/tictactoe/src/index.js",
+		"/D/Users/Nott/Documents/WebDevelopment/React/react/tictactoe/src/index.css",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/robofriends/src/App.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/robofriends/README.md",
+		"/D/Users/Nott/Documents/WebDevelopment/React/react/tictactoe/src/App.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/robofriends/src/Hello.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/robofriends/src/Hello.css",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/MatchGame/index.html",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/MatchGame/temp.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/MatchGame/temp.css",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/MatchGame/match.css",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/MatchGame/match.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/MatchGame/temp.html",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/exerciseES7.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/advanced-looping-exercise.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/exerciseES8.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/exercise5-SOLUTIONS-1.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/exercise6.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/exercise4-SOLUTIONS.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/exercise4.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/exercise3-SOLUTIONS.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/exercise3.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/controlflow.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/exercise2-SOLUTIONS.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/gradient.html",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/gradient.css",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/gradient.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/scope.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/scope-solutions.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/ToDo/style.css",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/ToDo/script.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/ToDo/index.html",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/Javascript/todo.css",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/Javascript/todo.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/Javascript/todo.html",
+		"/D/Users/Nott/Downloads/script.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/Template/index.html",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/Template/style.css",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/Template/project-start/project-start/style.css",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/Template/project-prettify/project-prettify/style.css",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/Javascript/exercise7-SOLUTIONS.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/Javascript/facebook.html",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/Javascript/exercise7.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/Javascript/exercise5-SOLUTIONS.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/Javascript/exercise6.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/Javascript/exercise6-SOLUTIONS.js",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/exercise1.txt",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/exercise2.txt",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/Template/project-prettify/project-prettify/index.html",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/Template/project-start/project-start/index.html",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/animate.html",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/CSSGrid/style.css",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/CSSGrid/index.html",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/StartupPage/index.html",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/animate.css",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/StartupPage/style.css",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/styleboot.css",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/guy-css.css",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/guy-css.html",
+		"/D/Users/Nott/Documents/WebDevelopment/Profile/ghprofile/index.html",
+		"/D/Users/Nott/Documents/WebDevelopment/Profile/ghprofile/style.css",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/bootstrap.html",
+		"/D/Users/Nott/Documents/WebDevelopment/Profile/ghprofile/gallery.html",
+		"/D/Users/Nott/Documents/WebDevelopment/Profile/ghprofile/gallery.css",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/imagegallery.css",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/imagegallery.html",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/style.css",
+		"/D/Users/Nott/Documents/WebDevelopment/CompleteWDin2019/index.html",
+		"/D/wamp64/www/hoa/wp-config.php",
+		"/D/Users/Nott/Downloads/hoa_db.sql",
+		"/D/Users/Nott/Documents/WebDevelopment/ghprofile/assets/style.css",
+		"/D/Users/Nott/Documents/WebDevelopment/ghprofile/assets/main.js",
+		"/D/Users/Nott/Documents/WebDevelopment/ghprofile/index.html",
+		"/D/Users/Nott/Documents/WebDevelopment/stelron/index.html",
+		"/D/Users/Nott/Documents/WebDevelopment/ghprofile/temp.html",
+		"/D/Users/Nott/Documents/WebDevelopment/ghprofile/temp.css",
+		"/D/Users/Nott/Documents/WebDevelopment/ghprofile/assets/temp.html",
+		"/D/Users/Nott/Documents/WebDevelopment/ghprofile/assets/index.css",
+		"/D/Users/Nott/Documents/WebDevelopment/ghprofile/assets/index.js",
+		"/D/Users/Nott/Documents/WebDevelopment/Accessibility/learn-aria-complete/desteams-learn-aria-fb4b18385ffe/menu.html",
+		"/D/Users/Nott/Documents/WebDevelopment/Accessibility/learn-aria-complete/desteams-learn-aria-fb4b18385ffe/assets/ik_menu.css",
+		"/D/Users/Nott/Documents/WebDevelopment/Accessibility/learn-aria-complete/desteams-learn-aria-fb4b18385ffe/assets/ik_menu.js",
+		"/D/Users/Nott/Documents/WebDevelopment/bsod.html",
+		"/D/Users/Nott/Documents/WebDevelopment/temp.html",
+		"/D/Users/Nott/Documents/WebDevelopment/first-contributions/Contributors.md",
+		"/D/Users/Nott/Documents/WebDevelopment/Accessibility/majorkira.github.io/sortable.html",
+		"/D/Users/Nott/Documents/WebDevelopment/Accessibility/majorkira.github.io/assets/ik_sortable.js",
+		"/D/Users/Nott/Documents/WebDevelopment/Accessibility/majorkira.github.io/tree.html",
+		"/D/Users/Nott/Documents/WebDevelopment/Accessibility/majorkira.github.io/assets/ik_treemenu.js",
+		"/D/Users/Nott/Documents/WebDevelopment/Accessibility/majorkira.github.io/menu.html",
+		"/D/Users/Nott/Documents/WebDevelopment/Accessibility/majorkira.github.io/assets/ik_menu.js",
+		"/D/Users/Nott/Documents/WebDevelopment/Accessibility/majorkira.github.io/carousel.html",
+		"/D/Users/Nott/Documents/WebDevelopment/Accessibility/majorkira.github.io/assets/ik_carousel.js",
+		"/D/Users/Nott/Documents/WebDevelopment/Accessibility/majorkira.github.io/tabs.html",
+		"/D/Users/Nott/Documents/WebDevelopment/Accessibility/majorkira.github.io/assets/ik_tabs.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"response"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 497,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
